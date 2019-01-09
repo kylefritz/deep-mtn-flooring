@@ -1,0 +1,4 @@
+numericalunits
+matplotlib
+sympy
+numpy
